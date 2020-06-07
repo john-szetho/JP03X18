@@ -211,7 +211,7 @@ footer nav a:hover {
 }
 
 .list a:after {
-  content: '/';
+  content: ' ';
 }
 
 .list a:hover img {
@@ -229,7 +229,66 @@ footer nav a:hover {
 @media (max-width:960px) {
   
   .list a img {
-    max-width: 60vw;
+    max-width: 75vw;
   }
   
 }
+
+@media (max-width:500px) {
+
+  header {
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
+
+  header nav {
+    font-size: 12pt;
+  }
+
+  .title {
+    margin-bottom: 6px;
+  }
+
+  .list a {
+    font-size: 26pt;
+  }
+
+  body {
+    padding-top: 0;
+  }
+
+  .photos {
+    padding-top: 6rem;
+  }
+
+  .list {
+    padding: 82px 20px 24px 20px;
+  }
+
+  .title-list {
+    display: none;
+  }
+
+}
+
+/* @media (max-width:460px) {
+
+  header {
+    text-align: center;
+  }
+
+  header .title h1 {
+    line-height: 0.9;
+  }
+
+  header .title {
+    display: block;
+    width: 100vw;
+  }
+
+  header nav {
+    display: block;
+    width: 100vw;
+  }
+
+} */
