@@ -149,14 +149,6 @@ footer {
   text-transform: capitalize;
 }
 
-footer p {
-/*   float: left; */
-}
-
-footer nav {
-/*   float: right; */
-}
-
 footer nav img {
   vertical-align: middle;
 }
