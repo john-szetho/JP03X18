@@ -22,7 +22,7 @@ header {
   top: 0;
   left: 0;
   
-  width: calc(100% - 40px);
+  width: 100%;
   padding: 18px 20px;
   
   display: flex;
