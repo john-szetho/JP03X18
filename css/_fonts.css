@@ -2,20 +2,20 @@
 
 @font-face {
     font-family: 'GlyphWorld AirLand';
-    src: url(../fonts/GlyphWorld-AirLand.woff);
+    src: url(fonts/GlyphWorld-AirLand.woff) format('woff');
 }
 
 @font-face {
     font-family: 'GlyphWorld Mountain';
-    src: url(../fonts/GlyphWorld-Mountain.woff);
+    src: url(fonts/GlyphWorld-Mountain.woff) format('woff');
 }
 
 @font-face {
     font-family: 'GlyphWorld AnimalSoul';
-    src: url(../fonts/GlyphWorld-AnimalSoul.woff);
+    src: url(fonts/GlyphWorld-AnimalSoul.woff) format('woff');
 }
 
 @font-face {
     font-family: 'GlyphWorld Meadow';
-    src: url(../fonts/GlyphWorld-Meadow.woff);
+    src: url(fonts/GlyphWorld-Meadow.woff) format('woff');
 }
